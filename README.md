@@ -1,3 +1,5 @@
+![image](https://github.com/NAZIM06/NAZIM06/assets/48564479/d3db285d-5852-4b6d-afd5-1ff72c3b380f)
+
 <h1 align="center">Hi 👋, I'm Nazim Uddin</h1>
 <h3 align="center">Front-End Developer</h3>
 
