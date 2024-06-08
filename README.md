@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nazim Uddin</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- I'm from **Dhaka, Bangladesh**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=sharing**
+- 🌍 I'm from **Dhaka, Bangladesh**
 
 - 👨‍💻 All of my projects are available at [https://nazim06.github.io/cleanfolio](https://nazim06.github.io/cleanfolio)
 
-- 📫 How to reach me [nazimuddin2106@gmail.com](nazimuddin2106@gmail.com)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=sharing](https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=sharing)
 
 - 🌱 I’m currently learning **Redux, SQL**
 
+- 📫 How to reach me **nazimuddin2106@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nazim_uddin6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nazim_uddin6" height="30" width="40" /></a>
+<a href="https://twitter.com/nazim_uddin6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazim_uddin6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nazim-uddin6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazim-uddin6" height="30" width="40" /></a>
 <a href="https://fb.com/me.nazimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.nazimuddin" height="30" width="40" /></a>
-<a href="https://x.com/Nazim_Uddin6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
