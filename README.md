@@ -3,6 +3,8 @@
 <h3 align="center">Front-End Developer</h3>
 
 # 💫 About Me:
+Hello!! I am Nazim Uddin. I am a  Front-End and MERN Developer. I am learning HTML5, CSS3, JavaScript, TypeScript, React.js, Express.js, and MongoDB. I love creating user-friendly web applications and enjoy learning new things every day. I am passionate about design and functionality, always striving to make web applications better. Excited to use my skills to build dynamic web solutions and contribute to interesting projects.
+
 🌍 I'm from Dhaka, Bangladesh<br>👨‍💻 All of my projects are available at https://nazim06.github.io/cleanfolio<br>🌱 I’m currently learning Redux, SQL<br>💬 Know about my experiences https://drive.google.com/file/d/1ZP045te8F_uKDkDcC85sDCEHgTyaqqZa/view?usp=sharing<br>📫 How to reach me nazimuddin2106@gmail.com
 
 
